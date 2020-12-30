@@ -7,4 +7,4 @@ int main()
     scanf("%d",&n);
     printf("N value is %d",n);
     printf("Your program is completed\n");
-}Include
+}

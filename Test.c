@@ -8,3 +8,4 @@ int main()
     printf("N value is %d",n);
     printf("Your program is completed\n");
 }
+How are you
